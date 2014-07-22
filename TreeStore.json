@@ -1,0 +1,5333 @@
+{
+    "items": [
+        {
+            "text": "Aquatics: Diving",
+            "venue": "Royal Commonwealth Pool, Edinburgh",
+            "address":"21 Dalkeith Rd, Edinburgh, Midlothian EH16 5BB",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+            "items": [
+                {
+                    "text": "Wed 30th July 10:00-12:45",
+                    "items": [
+                        {
+                            "text": "M  1m Springboard",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W  Synchronised 10m Platform",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 18:00-20:45",
+                    "items": [
+                        {
+                            "text": "M  1m Springboard",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Synchronised3mSpringboard",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 10:00-13:00",
+                    "items": [
+                        {
+                            "text": "M 3m Springboard",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10m Platform",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 18:00–21:30",
+                    "items": [
+                        {
+                            "text": "M 3m Springboard",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10m Platform",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 10:00–12:15",
+                    "items": [
+                        {
+                            "text": "M Synchronised 3m Springboard",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 1m Springboard",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 18:00–20:30",
+                    "items": [
+                        {
+                            "text": "M Synchronised 10m Platform",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 1m Springboard",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 10:00-13:00",
+                    "items": [
+                        {
+                            "text": "M 10:00–13:00",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 3m Springboard",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 18:00–21:15",
+                    "items": [
+                        {
+                            "text": "M 10m Platform",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 3m Springboard",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Aquatics: Swimming",
+            "venue": "Tollcross International Swimming Centre",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+            "items": [
+                {
+                    "text": "Thu 24th July 10:30-12:30",
+                    "items": [
+                        {
+                            "text": "M Para-Sport 100m Freestyle S9",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 400m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 400m Individual Medley",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 100m Freestyle Relay",
+                            "key": "H",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 24th July 19:00–21:00",
+                    "items": [
+                        {
+                            "text": "M 100m Backstroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Butterfly",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 100m Freestyle S9",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 400m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Breaststroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Butterfly",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 400m Individual Medley",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 100m Freestyle Relay",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 10:30-12:00",
+                    "items": [
+                        {
+                            "text": "M 200m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 400m Individual Medley",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 100m Freestyle Relay",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 100m Freestyle S8",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 19:00–21:15",
+                    "items": [
+                        {
+                            "text": "M 100m Breaststroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 400m Individual Medley",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "F 4 x 100m Freestyle Relay",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Freestyle",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Backstroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 100m Freestyle S8",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 10:30–12:00",
+                    "items": [
+                        {
+                            "text": "M Para-Sport 200m Freestyle S14",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 200m Freestyle Relay",
+                            "key": "H",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 19:00–21:15",
+                    "items": [
+                        {
+                            "text": "M 100m Freestyle",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Backstroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 200m Freestyle S14",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Butterfly",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 200m Freestyle Relay",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 10:30–12:30",
+                    "items": [
+                        {
+                            "text": "M 50m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 200m Freestyle Relay",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 100m Breaststroke SB9",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 800m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Breaststroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        
+                        {
+                            "text": "W 200m Individual Medley",
+                            "key": "H",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 19:00–21:15",
+                    "items": [
+                        {
+                            "text": "M 50m Breaststroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Butterfly",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 200m Freestyle Relay",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Freestyle",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Breaststroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 100m Breaststroke SB9",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Individual Medley",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 10:30–12:00",
+                    "items": [
+                        {
+                            "text": "M Para-Sport 200m Individual Medley SM8",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 1500m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Backstroke",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Butterfly",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Freestyle",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 19:00–21:15",
+                    "items": [
+                       
+                        {
+                            "text": "M 50m Freestyle",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 200m Individual Medley SM8",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 100m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Backstroke",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 800m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 100m Breaststroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 200m Butterfly",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 10:30–11:45",
+                    "items": [
+                        {
+                            "text": "M 200m Individual Medley",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 100m Medley Relay",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 200m Individual Medley SM10",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 400m Freestyle",
+                            "key": "H",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 100m Medley Relay",
+                            "key": "H",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 19:00–21:30",
+                    "items": [
+                        {
+                            "text": "M 50m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 1500m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 200m Individual Medley",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 100m Medley Relay",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 200m Individual Medley SM10",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 400m Freestyle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Backstroke",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 4 x 100m Medley Relay",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "text": "Athletics: Marathon",
+            "venue": "Glasgow City Marathon Course",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+            "items": [
+                {
+                    "text": "Sun 27th July 09:00-13:00",
+                    "items": [
+                        {
+                            "text": "M  Marathon",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "F Marathon",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+               
+                
+            ]
+        },
+         {
+            "text": "Athletics: Track & Field",
+            "venue": "Hampden Park",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+            "items": [
+                {
+                    "text": "Sun 27th July 14:30-18:00",
+                    "items": [
+                        {
+                            "text": "M  100m Round 1 & 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Shot Put",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W  100m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W  400m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W  Hammer Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W  Para-Sport Long Jump F37/38",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Mon 28th July 10:00-13:00",
+                    "items": [
+                        {
+                            "text": "M  Para Sport 100m T37 Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 400m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M High Jump",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Hammer Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Para-Sport Discus Throw F42/44",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Decathalon 100m, Long Jump, Shot Put",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Para-Sport 100m T12 Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 1500m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 19:00-22:00",
+                    "items": [
+                        {
+                            "text": "M  100m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 100m T37",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 100m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Shot Put",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Decathlon: 400m, High Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Triple Jump",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 100m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 400m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Para-Sport 100m T12",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 100m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Hammer Throw",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+               {
+                    "text": "Tue 29th July 10:00-13:15",
+                    "items": [
+                        {
+                            "text": "M  Para-Sport 1500m T54 Round 1. 800m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 110m Hurdles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 400m Hurdles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M SDecathlon: 110m Hurdles, Pole Vault, Discus Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Para-Sport 1500m T54 Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Shot Put",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Javelin Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Heptathlon: 100m Hurdles, High Jump",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M  400m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 110m Hurdles",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Hammer Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Decathlon: 1500m, Javelin Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 400m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 1500m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 10,000m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Triple Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Heptathlon: 200m, Shot Put",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 10:00-13:00",
+                    "items": [
+                        {
+                            "text": "M  200m Round 1.",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Pole Vault",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Discus Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 400m Hurdles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 400m Hurdles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W High Jump",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Long Jump",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Heptathlon: Long Jump",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 19:00-22:15",
+                    "items": [
+                        {
+                            "text": "M  200m Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 800m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 400m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M High Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Long Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 200m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 3000m Steeplechase",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Shot Put",
+                            "key": "F",
+                            "leaf": true
+                        }
+                        ,
+                         {
+                            "text": "W Javelin Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Heptathlon: 800m, Javelin Throw",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                }, 
+                
+                {
+                    "text": "Thu 31st July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M  200m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 1500m T54",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 200m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 800m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 400m Hurdles",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Discus Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 800m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 100m Hurdles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        }
+                        ,
+                         {
+                            "text": "W Pole Vault",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Discus Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 200m",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Para-Sport 1500m T54",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 200m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 400m Hurdles",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Long Jump",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                },
+                
+                 {
+                    "text": "Fri 1st August 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M  1500m Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triple Jump",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Javelin Throw",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 4 x 100m Relay Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 4 x 400m Relay Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 3000m Steeplechase",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 10,000m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Pole Vault",
+                            "key": "P",
+                            "leaf": true
+                        }
+                        ,
+                         {
+                            "text": "W 4 x 100m Relay Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 4 x 400m Relay Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 800m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 100m Hurdles",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W High Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Discus Throw",
+                            "key": "F",
+                            "leaf": true
+                        }
+                         
+                         
+                    ]
+                },
+                {
+                    "text": "Sat 2nd August 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M 4 x 100m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4 x 400m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M 1500m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Triple Jump",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Javelin Throw",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 4 x 100m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 4 x 400m",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W 5000m",
+                            "key": "F",
+                            "leaf": true
+                        }
+                        ,
+                         {
+                            "text": "W Pole Vault",
+                            "key": "F",
+                            "leaf": true
+                        }                      
+                        
+                                                 
+                         
+                    ]
+                },
+                
+            ]
+        },
+        
+        { 
+        	"text": "Badmington",
+            "venue": "Emirates Arena",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 24th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 24th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "X Teams Group Play Stage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "X Teams",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 09:00-13:00",
+                    "items": [
+                        {
+                            "text": "X Teams",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "X Teams",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 09:00-13:00",
+                    "items": [
+                        {
+                            "text": "X Teams Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 15:00-19:15",
+                    "items": [
+                        {
+                            "text": "X Teams Gold medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 09:00-15:00",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 16:30-22:30",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 09:00-15:00",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 16:30-22:00",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 13:30-16:30",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 18:30-21:30",
+                    "items": [
+                        {
+                            "text": "Singles & Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 09:00-14:00",
+                    "items": [
+                        {
+                            "text": "M Singles & Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 09:00-14:00",
+                    "items": [
+                        {
+                            "text": "W Singles & Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 09:00-14:00",
+                    "items": [
+                        {
+                            "text": "X Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 17:00-22:00",
+                    "items": [
+                        {
+                            "text": "M Singles & Doubles Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 17:00-22:00",
+                    "items": [
+                        {
+                            "text": "W Singles & Doubles Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 17:00-22:00",
+                    "items": [
+                        {
+                            "text": "Doubles Bronze medal match",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 3rd Aug 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "M Singles & Doubles Gold medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 3rd Aug 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "W Singles & Doubles Gold medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 3rd Aug 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "X Doubles Gold medal match",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                
+                ]
+                      
+            
+            },
+        
+        { 
+        	"text": "Boxing",
+            "venue": "Scottish Exhibition + Conference Centre Precinct",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Fri 25th July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Welter (69kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Super Heavy (+91kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+               
+                
+                {
+                    "text": "Fri 25th July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Heavy (91kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                
+                
+               
+                {
+                    "text": "Sat 26th July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light (60kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Welter (64kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                               
+                
+                
+                {
+                    "text": "Sat 26th July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "M Light Fly (49kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Middle (75kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+                
+                {
+                    "text": "Sun 27th July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Light (60kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+              
+              
+                
+                {
+                    "text": "Sun 27th July 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "M Light Welter (64kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Heavy (91kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+               
+                
+                {
+                    "text": "Mon 28th July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "M Welter (69kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Middle (75kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                        
+                    ]
+                },
+                
+               
+                              
+                {
+                    "text": "Mon 28th July 18:30-22:45",
+                    "items": [
+                    {
+                            "text": "M Light Fly (49kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Women’s Fly (51kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                               
+                {
+                    "text": "Tue 29th July 13:00-17:00",
+                    "items": [
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Super Heavy (+91kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Light (60kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+            
+                {
+                    "text": "Tue 29th July 18:30-22:45",
+                    "items": [
+                        {
+                            "text": "M Light (60kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Light Welter (64kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Middle (75kg)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+               
+               
+                
+                
+                {
+                    "text": "Wed 30th July 13:00-17:15",
+                    "items": [
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Heavy (91kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fly (51kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Light (60kg)",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+              
+                
+               
+                
+                {
+                    "text": "Wed 30th July 18:30-22:45",
+                    "items": [
+                        {
+                            "text": "M Light Fly (49kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Welter (69kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Middle (75kg)",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Middle (75kg)",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                
+                
+                               
+                {
+                    "text": "Fri 1st Aug 13:00-16:30",
+                    "items": [
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Welter (64kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Super Heavy (+91kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Fly (51kg)",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                
+               
+                
+                {
+                    "text": "Fri 1st Aug 18:30-22:30",
+                    "items": [
+                        {
+                            "text": "M Light Fly (49kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light (60kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Welter (69kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Middle (75kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Heavy (91kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Light (60kg)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Middle (75kg)",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+           
+                
+                {
+                    "text": "Sat 2nd Aug 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "M Light Fly (49kg).",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Fly (52kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Bantam (56kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light (60kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Welter (64kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M W Fly (51kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M W Light (60kg)",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+               
+                
+             
+             
+                
+                
+                
+               
+                
+                
+                {
+                    "text": "Sat 2nd Aug 19:00-22:00",
+                    "items": [
+                        {
+                            "text": "M Welter (69kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Middle (75kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Light Heavy (81kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Heavy (91kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Super Heavy (+91kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Middle (75kg)",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Cycling: Mountain Bike",
+            "venue": "Cathkin Braes Mountain Bike Trails",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Tue 29th July 11:30-16:00",
+                    "items": [
+                        {
+                            "text": "M Cross Country",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Cross Country",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Cycling: Time Trial & Road Race",
+            "venue": "Glasgow City Cycling Time Trial & Road Courses",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 31st July 10:00-15:30",
+                    "items": [
+                        {
+                            "text": "M Individual Time Trial",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Individual Time Trial",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 3rd August 08:30-17:00",
+                    "items": [
+                        {
+                            "text": "M Road Race",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        
+                        {
+                            "text": "W Road Race",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Cycling: Track",
+            "venue": "Sir Chris Hoy Velodrome",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 11:00-13:40",
+                    "items": [
+                        {
+                            "text": "M Sprint Qualifying, First Round & Repechages",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4000m Team Pursuit",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport Sprint B Tandem",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport Sprint B Tandem",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 16:00-18:45",
+                    "items": [
+                        {
+                            "text": "M Team Sprint",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4000m Team Pursuit",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Team Sprint",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport Sprint B Tandem",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 500m Time Trial",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 11:00-13:30",
+                    "items": [
+                        {
+                            "text": "M 4000m Individual Pursuit",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Sprint",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 3000m Individual Pursuit",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 16:00-18:30",
+                    "items": [
+                        {
+                            "text": "M Sprint",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport 1000m Time Trial B Tandem",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Sprint",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 4000m Individual Pursuit",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 3000m Individual Pursuit",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 11:00-13:30",
+                    "items": [
+                        {
+                            "text": "M Para-Sport Sprint B Tandem",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 40km Points Race",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Para-Sport Sprint B Tandem",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Sprint",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Sprint",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 16:00-19:30",
+                    "items": [
+                        {
+                            "text": "M Para-Sport Sprint B Tandem",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 1000m Time Trial",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 40km Points Race",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Sprint",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Sprint (5th-8th)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10km Scratch Race",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 15:00-19:30",
+                    "items": [
+                        {
+                            "text": "M Keirin",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 20km Scratch Race",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Keirin",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Keirin",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 500m 20km Scratch Race",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Para-Sport 1000m Time Trial B Tandem",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Sprint.",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 25km Points Race",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Gymnastics: Rythmic",
+            "venue": "The Hydro",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 12:00-15:30",
+                    "items": [
+                        {
+                            "text": "W Team Final & Individual Qualification",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 18:00-21:30",
+                    "items": [
+                        {
+                            "text": "W Team Final & Individual Qualification",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 13:30-17:30",
+                    "items": [
+                        {
+                            "text": "W Individual All-Around Final",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 09:30-12:30",
+                    "items": [
+                        {
+                            "text": "W Apparatus Finals: Hoop, Ball, Clubs, Ribbon",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Hockey",
+            "venue": "Glasgow National Hockey Centre",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 24th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 19:00-22:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 24th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 24th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 09:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 14:00-17:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 19:00-23:00",
+                    "items": [
+                        {
+                            "text": "W Classifications",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 09:00-12:30",
+                    "items": [
+                    	{
+                            "text": "W Classification match",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Semi-finals",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 18:00-22:00",
+                    "items": [
+                        {
+                            "text": "M Classifications",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 10:00-16:15",
+                    "items": [
+                        {
+                            "text": "M Classification match",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Semi-finals",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 18:00-22:30",
+                    "items": [
+                        {
+                            "text": "W Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 3rd Aug 10:00-14:30",
+                    "items": [
+                        {
+                            "text": "M Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Judo",
+            "venue": "Scottish Exhibition + Conference Centre Precinct",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+               
+                {
+                    "text": "Thu 24th July 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "M -60kg, -66kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -60kg, -66kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -60kg, -66kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -60kg, -66kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W -48kg, -52kg, -57kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -48kg, -52kg, -57kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -48kg, -52kg, -57kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -48kg, -52kg, -57kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                
+                        
+                    ]
+                },
+                 {
+                    "text": "Thu 24th July 18:00-20:45",
+                    "items": [
+                        {
+                            "text": "M -60kg, -66kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -48kg, -52kg, -57kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "M -73kg, -81kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -73kg, -81kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -73kg, -81kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -73kg, -81kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W -63kg, -70kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -63kg, -70kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -63kg, -70kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -63kg, -70kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 18:00-20:45",
+                    "items": [
+                        {
+                            "text": "M -73kg, -81kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W -63kg, -70kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 10:00-16:00",
+                    "items": [
+                        {
+                            "text": "M -90kg, -100kg, +100kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -90kg, -100kg, +100kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -90kg, -100kg, +100kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M -90kg, -100kg, +100kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W -78kg, +78kg Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -78kg, +78kg Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -78kg, +78kg Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W -78kg, +78kg Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 18:00-20:45",
+                    "items": [
+                        {
+                            "text": "M -90kg, -100kg, +100kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W -78kg, +78kg Gold & Bronze medal contests",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Lawn Bowls",
+            "venue": "Kelvingrove Lawn Bowls Centre",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 08:45-14:00",
+                    "items": [
+                        {
+                            "text": "M Pairs Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Triples Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Fours Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Para-Sport Mixed Pairs B2/B3 Round 1",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 15:45-21:00",
+                    "items": [
+                        {
+                            "text": "M Pairs Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Para-Sport Mixed Pairs B2/B3 Round 2",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 08:45-14:00",
+                    "items": [
+                        {
+                            "text": "M Pairs Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Para-Sport Mixed Pairs B2/B3 Round 3",
+                            "key": "P",
+                            "leaf": true
+                        }
+                        
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 15:45-21:45",
+                    "items": [
+                        {
+                            "text": "M Pairs Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Para-Sport Mixed Pairs B2/B3",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 08:45-15:00",
+                    "items": [
+                        {
+                            "text": "M Pairs Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Para-Sport Mixed Pairs B2/B3 Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 16:45-19:45",
+                    "items": [
+                        {
+                            "text": "M Pairs",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 08:45–15:45",
+                    "items": [
+                        {
+                            "text": "M Fours Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Pairs",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Triples",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Fours Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 17:30–20:45",
+                    "items": [
+                        {
+                            "text": "M Singles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+        
+                {
+                    "text": "Mon 28th July 08:45–16:00",
+                    "items": [
+                        {
+                            "text": "M Pairs Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Triples Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Para-Sport Open Triples B6/B7/B8 Round 1",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Mon 28th July 17:45–20:00",
+                    "items": [
+                        {
+                            "text": "M Fours Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples Round 2",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                        {
+                    "text": "Tue 29th July 08:45–14:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Fours Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Pairs Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Triples Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "O Para-Sport Open Triples B6/B7/B8 Round 2",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Tue 29th July 15:45–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M  Fours Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Para-Sport Open Triples B6/B7/B8 Round 3",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 08:45–14:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs Rounds 4",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs Rounds 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples Round 5",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 15:45–18:45",
+                    "items": [
+                        {
+                            "text": "M Singles Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Fours Round 5",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Triples",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "O Para-Sport Open Triples B6/B7/B8",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 08:45–15:45",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Fours",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Para-Sport Open Triples B6/B7/B8 Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 17:30–20:45",
+                    "items": [
+                        {
+                            "text": "M Fours",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Triples Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 1st Aug 08:45–16:00",
+                    "items": [
+                        {
+                            "text": "M Fours Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Pairs Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 1st Aug 17:45–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Netball",
+            "venue": "Scottish Exhibition + Conference Centre Precinct",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 11:30–15:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 17:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 15:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (3 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 15:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (3 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 17:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Mon 28th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Mon 28th July 17:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Tue 29th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Tue 29th July 17:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 09:30–13:00",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 17:00–20:30",
+                    "items": [
+                        {
+                            "text": "W Preliminaries (2 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 17:00–21:00",
+                    "items": [
+                        {
+                            "text": "W Classifications (2 matches)",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 1st Aug 09:30–13:30",
+                    "items": [
+                        {
+                            "text": "W Classifications (2 matches)",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 2nd Aug 10:00–14:00",
+                    "items": [
+                        {
+                            "text": "W Semi-finals (2 matches)",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 3rd Aug 10:00–15:00",
+                    "items": [
+                        {
+                            "text": "W Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Rugby Sevens",
+            "venue": "Ibrox Stadium",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Sat 26th July 10:30–15:00",
+                    "items": [
+                        {
+                            "text": "M Preliminaries (12 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 18:00–22:30",
+                    "items": [
+                        {
+                            "text": "M Preliminaries (12 matches)",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 10:30–14:15",
+                    "items": [
+                        {
+                            "text": "M Classifications (6 matches)",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Quarter-finals (4 matches)",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 17:15–22:30",
+                    "items": [
+                        {
+                            "text": "M Classifications (7 matches)",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Semi-finals (2 matches)",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Shooting: Clay Target, Full Bore, Pistol & Small Bore",
+            "venue": "Barry Buddon Shooting Centre, Carnoustie",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Fri 25th July 08:45–18:00",
+                    "items": [
+                        {
+                            "text": "M Skeet",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 10m Air Rifle",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 10m Air Rifle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Skeet",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        
+                        {
+                            "text": "W 10m Air Pistol",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Skeet",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10m Air Pistol",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Queen’s Prize Pairs",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                 {
+                    "text": "Sat 26th July 08:45–18:00",
+                    "items": [
+                        {
+                            "text": "M Skeet",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 10m Air Pistol",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Skeet",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 10m Air Pistol",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 25m Pistol",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10m Air Rifle",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 10m Air Rifle",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 25m Pistol",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Queen’s Prize Pairs",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sun 27th July 08:45–18:00",
+                    "items": [
+                        {
+                            "text": "M Double Trap",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Double Trap",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Double Trap",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Queen’s Prize Individual",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Mon 28th July 08:45–18:30",
+                    "items": [
+                        {
+                            "text": "M Trap",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 25m Rapid Fire Pistol Stage 1",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Pistol",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Rifle Prone",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Pistol",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Rifle Prone",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Trap",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Trap",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Rifle Prone",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Queen’s Prize Individual",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Tue 29th July 08:45–18:30",
+                    "items": [
+                        {
+                            "text": "M Trap",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 25m Rapid Fire Pistol Stage 2",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 50m Rifle 3 Positions",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Trap",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M 25m Rapid Fire Pistol",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M  50m Rifle 3 Positions",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Rifle 3 Positions",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W 50m Rifle 3 Positions",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "O Queen’s Prize Individual",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Squash",
+            "venue": "Scotstoun Sports Campus",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 11:00-15:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round of 64",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 16.30–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round of 32",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round of 32",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 12:30–16:30",
+                    "items": [
+                        {
+                            "text": "M Singles Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Plate Round of 32",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Plate Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 25th July 18:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Plate Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        
+                        {
+                            "text": "W Singles Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles Plate Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 12:30–16:30",
+                    "items": [
+                        {
+                            "text": "M Singles Classic Plate Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Consolation Plate Round of 16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Consolation Plate",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 18:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Classic Plate",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M  Singles Plate",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Consolation Plate",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Plate.",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 13:00–16:30",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Singles Classic Plate",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Singles Consolation Plate",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Singles Classic Plate",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles Plate",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles Consolation Plate",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sun 27th July 18:00–20:30",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Plate",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Plate",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Classic Plate",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                        
+                    ]
+                },
+                
+                {
+                    "text": "Mon 28th July 12:00–17:00",
+                    "items": [
+                        {
+                            "text": "M Singles Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Classic Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Consolation Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Singles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Classic Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Consolation Plate",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                        
+                    ]
+                },
+                
+                {
+                    "text": "Tue 29th July 11:30–16:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Tue 29th July 17.30–21:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 11:30–16:00",
+                    "items": [
+                        {
+                            "text": "W Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Wed 30th July 17:30–21:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 11:30–16:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Knockout 1-16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 17:30–21:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Knockout 1-16",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Pools",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 1st Aug 11:30–16:00",
+                    "items": [
+                        {
+                            "text": "M Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Fri 1st Aug 17:30–21:00",
+                    "items": [
+                       {
+                            "text": "M Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 2nd Aug 11:30–17:00",
+                    "items": [
+                        {
+                            "text": "M Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                     
+                    ]
+                },
+                
+                {
+                    "text": "Sun 3rd Aug 11:30–16:00",
+                    "items": [
+                        {
+                            "text": "M Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Table Tennis",
+            "venue": "Scotstoun Sports Campus",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 16:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 25th July 16:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Team Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Team",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Team",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 26th July 16:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Team",
+                            "key": "CL",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Team",
+                            "key": "CL",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 09:30-15:00",
+                    "items": [
+                        {
+                            "text": "W Team Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sun 27th July 16:30–21:30",
+                    "items": [
+                        {
+                            "text": "M Team",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Mon 28th July 11:00–16:30",
+                    "items": [
+                        {
+                            "text": "M Team Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 16:00–21:00",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "Q",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "Q",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Doubles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Round 2",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 16:00–21:30",
+                    "items": [
+                        {
+                            "text": "M Doubles Round 2"
+                        },
+                        {
+                            "text": "W Singles Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Singles Round 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Doubles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Doubles Rounds 1",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Doubles Rounds 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "X Doubles Round 4",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 16:00–21:30",
+                    "items": [
+                         {
+                            "text": "M Singles Round 2",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                         {
+                            "text": "X Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Singles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles Round 3",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Fri 1st Aug 16:00–21:30",
+                    "items": [
+                        {
+                            "text": "W Singles",
+                            "key": "QF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Singles Gold & Bronze medal matches",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 09:30-14:30",
+                    "items": [
+                        {
+                            "text": "M Singles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles",
+                            "key": "SF",
+                            "leaf": true
+                        },
+                        {
+                            "text": "X Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 16:00–20:30",
+                    "items": [
+                        {
+                            "text": "M Singles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Doubles Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Triathlon",
+            "venue": "Strathclyde Country Park",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 11:00–18:00",
+                    "items": [
+                        {
+                            "text": "M Individual",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Individual",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 26th July 12:30-14:30",
+                    "items": [
+                        {
+                            "text": "X Team Relay",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Weightlifting",
+            "venue": "Clyde Auditorium",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Thu 24th July 10:00-12:00",
+                    "items": [
+                        {
+                            "text": "M 56kg Group B",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 24th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 48kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Thu 24th July 9:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 56kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 10:00-12:00",
+                    "items": [
+                        {
+                            "text": "M 62kg Group B",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 53kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Fri 25th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 62kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 10:00-12:00",
+                    "items": [
+                        {
+                            "text": "M 69kg Group B",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 58kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sat 26th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 69kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sun 27th July 10:00-12:00",
+                    "items": [
+                        {
+                            "text": "M 77kg Group B",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sun 27th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 63kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Sun 27th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 77kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Mon 28th July 10:00-12:00",
+                    "items": [
+                        {
+                            "text": "M 85kg Group B",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Mon 28th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 69kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Mon 28th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 85kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Tue 29th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W 75kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Tue 29th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 94kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Wed 30th July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "W +75kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Wed 30th July 19:30–22:00",
+                    "items": [
+                        {
+                            "text": "M 105kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                 {
+                    "text": "Thu 31st July 15:30–18:00",
+                    "items": [
+                        {
+                            "text": "M +105kg Group A",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+              
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Para-Sport Powerlifting",
+            "venue": "Clyde Auditorium",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Sat 2nd Aug 10:00-12:30",
+                    "items": [
+                        {
+                            "text": "W Lightweight (up to 61kg)",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Heavyweight (from 61.01kg)",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Sat 2nd Aug 14:00–16:30",
+                    "items": [
+                        {
+                            "text": "M Lightweight (up to 72kg)",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Sat 2nd Aug 18:00–20:30",
+                    "items": [
+                        {
+                            "text": "M Heavyweight (from 72.01kg)",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            { 
+        	"text": "Wrestling",
+            "venue": "Scottish Exhibition + Conference Centre Precinct",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Tue 29th July 10:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 55kg, 74kg, 120kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 55kg, 74kg, 120kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 55kg, 74kg, 120kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 55kg, 74kg, 120kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 48kg, 72kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 48kg, 72kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 48kg, 72kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 48kg, 72kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Tue 29th July 16:30–18:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 55kg, 74kg, 120kg: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Freestyle 48kg, 72kg:: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 10:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 60kg, 96kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Freestyle 60kg, 96kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Freestyle 60kg, 96kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "M Freestyle 60kg, 96kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Freestyle 51kg, 59kg, 67kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Freestyle 51kg, 59kg, 67kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Freestyle 51kg, 59kg, 67kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                         {
+                            "text": "W Freestyle 51kg, 59kg, 67kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Wed 30th July 16:30–18:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 60kg, 96kg: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 51kg, 59kg, 67kg: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Thu 31st July 10:00-12:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 66kg, 84kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 66kg, 84kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 66kg, 84kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "M Freestyle 66kg, 84kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 55kg, 63kg: Preliminaries",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 55kg, 63kg: Quarter-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 55kg, 63kg: Semi-finals",
+                            "key": "P",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 55kg, 63kg: Repechage",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                },
+                
+                {
+                    "text": "Thu 31st July 16:30–18:30",
+                    "items": [
+                        {
+                            "text": "M Freestyle 66kg, 84kg: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        },
+                        {
+                            "text": "W Freestyle 55kg, 63kg: Gold & Bronze medal matches",
+                            "key": "F",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            },
+            
+            { 
+        	"text": "Opening Ceremony",
+            "venue": "Celtic Park",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Wed 23rd July",
+                    "items": [
+                        {
+                            "text": "Celtic Park",
+                            "key": "P",
+                            "leaf": true
+                        }
+                    ]
+                }
+                ]
+                      
+            
+            },
+            
+            { 
+        	"text": "Closing Ceremony",
+            "venue": "Hampden Park",
+            "address":"",
+            "longitude": 55.939015,
+            "latitude": 55.939015,
+             "items": [
+                {
+                    "text": "Sun 3rd August",
+                    "items": [
+                        {
+                            "text": "Hampden Park",
+                            "key": "",
+                            "leaf": true
+                        }
+                    ]
+                }
+                
+                ]
+                      
+            
+            }
+         
+         
+        
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "items": [
+        {
+            "text": "Aquatics: Diving",
+            "venue": "Royal Commonwealth Pool, Edinburgh",
+            "address":"21 Dalkeith Rd, Edinburgh, Midlothian EH16 5BB",
+            "longitude": -3.172827,
+            "latitude":55.939015 
+           
+              
+        },
+        {
+            "text": "Aquatics: Swimming",
+            "venue": "Tollcross International Swimming Centre",
+            "address":"",
+            "longitude":-4.177369 ,
+            "latitude":55.845737 
+           
+        },
+        
+        {
+            "text": "Athletics: Marathon",
+            "venue": "Glasgow City Marathon Course Start-Finish",
+            "address":"",
+            "longitude": -4.235194,
+        	"latitude": 55.848645
+           
+        },
+         {
+            "text": "Athletics: Track & Field",
+            "venue": "Hampden Park",
+            "address":"",
+            "longitude": -4.252048,
+            "latitude": 55.825842
+          
+        },
+        
+        { 
+        	"text": "Badmington",
+            "venue": "Emirates Arena",
+            "address":"",
+            "longitude": -4.207203,
+            "latitude": 55.8468034
+               
+            
+            },
+        
+        { 
+        	"text": "Boxing",
+            "venue": "Scottish Exhibition and Conference Centre Precinct",
+            "address":"",
+            "longitude": -4.286985,
+            "latitude": 55.859731
+            
+            
+            },
+            { 
+        	"text": "Cycling: Mountain Bike",
+            "venue": "Cathkin Braes Mountain Bike Trails",
+            "address":"",
+            "longitude": -4.219072,
+            "latitude": 55.794291
+           
+            },
+           
+            { 
+        	"text": "Cycling: Time Trial and Road Race",
+            "venue": "Glasgow City Cycling Time Trial and Road Courses Start-Finish",
+            "address":"",
+            "longitude": -4.235194,
+            "latitude": 55.848645
+            
+            },
+            { 
+        	"text": "Cycling: Track",
+            "venue": "Sir Chris Hoy Velodrome",
+            "address":"",
+            "longitude": -4.207203,
+            "latitude": 55.8468034
+            
+            },
+            
+            { 
+        	"text": "General",
+            "venue": "Edinburgh City Centre - Waverly Station",
+            "address":"",
+            "longitude": -3.189713,
+            "latitude": 55.951862,
+            
+            
+            },
+            
+            { 
+        	"text": "General",
+            "venue": "Glasgow City Centre - George Square",
+            "address":"",
+            "longitude": -4.250196,
+            "latitude": 55.861152
+            
+            
+            },
+            
+            { 
+        	"text": "Gymnastics: Rythmic",
+            "venue": "The Hydro",
+            "address":"",
+            "longitude": -4.285137,
+            "latitude": 55.860605
+            
+            
+            },
+            { 
+        	"text": "Hockey",
+            "venue": "Glasgow National Hockey Centre",
+            "address":"",
+            "longitude": -4.2367094,
+            "latitude": 55.8449596
+            
+            
+            },
+            { 
+        	"text": "Judo",
+            "venue": "Scottish Exhibition and Conference Centre Precinct",
+            "address":"",
+            "longitude": -4.286985 ,
+            "latitude": 55.859731
+          
+            },
+            { 
+        	"text": "Lawn Bowls",
+            "venue": "Kelvingrove Lawn Bowls Centre",
+            "address":"",
+            "longitude": -4.2882447,
+            "latitude": 55.8673238
+          
+            },
+            { 
+        	"text": "Netball",
+            "venue": "Scottish Exhibition and Conference Centre Precinct",
+            "address":"",
+           "longitude": -4.286985 ,
+            "latitude": 55.859731
+             
+            },
+            { 
+        	"text": "Rugby Sevens",
+            "venue": "Ibrox Stadium",
+            "address":"",
+            "longitude": -4.311093,
+            "latitude": 55.853551
+           
+            },
+            { 
+        	"text": "Shooting: Clay Target, Full Bore, Pistol and Small Bore",
+            "venue": "Barry Buddon Shooting Centre, Carnoustie - Shuttle Base",
+            "address":"",
+            "longitude":-2.7142051,
+            "latitude": 56.5001297
+          
+            },
+            { 
+        	"text": "Squash",
+            "venue": "Scotstoun Sports Campus",
+            "address":"",
+            "longitude": -4.339611,
+            "latitude": 55.881388
+          
+            },
+            { 
+        	"text": "Table Tennis",
+            "venue": "Scotstoun Sports Campus",
+            "address":"",
+             "longitude": -4.339611,
+            "latitude": 55.881388
+         
+            },
+            { 
+        	"text": "Triathlon",
+            "venue": "Strathclyde Country Park",
+            "address":"",
+            "longitude": -4.014812,
+            "latitude": 55.785288
+          
+                      
+            
+            },
+            { 
+        	"text": "Weightlifting",
+            "venue": "Clyde Auditorium",
+            "address":"",
+            "longitude": -4.2876565,
+            "latitude": 55.8596309
+           
+            },
+            { 
+        	"text": "Para-Sport Powerlifting",
+            "venue": "Clyde Auditorium",
+            "address":"",
+            "longitude": -4.2876565,
+            "latitude": 55.8596309
+             
+            
+            },
+            { 
+        	"text": "Wrestling",
+            "venue": "Scottish Exhibition and Conference Centre Precinct",
+            "address":"",
+            "longitude": -4.286985 ,
+            "latitude": 55.859731
+           
+            
+            },
+            
+            { 
+        	"text": "Opening Ceremony",
+            "venue": "Celtic Park",
+            "address":"",
+            "longitude": -4.206304,
+            "latitude": 55.849341
+            
+            
+            },
+            
+            { 
+        	"text": "Closing Ceremony",
+            "venue": "Hampden Park",
+            "address":"",
+            "longitude": -4.252048,
+            "latitude": 55.825842
+          
+                      
+            
+            }
+         
+         
+        
+    ]
+}
